@@ -1,0 +1,1 @@
+Starting from the marked cell, follow the arrows step by step. Highlight the final cell.
